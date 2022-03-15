@@ -1,3 +1,3 @@
 # NeoSnake-New-Tab
 A new tab with classical snake game
-Build status
+On your preffered web browser which supports Javascript, Manage Extensions/ turn on developer mode, download the files, extract them, Load Unpacked and choose the folder.
