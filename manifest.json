@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "NeoSnake New Tab",
+  "description": "Classical Snake Game, But In Neon",
+  "author": "Daniel Lu",
+  "chrome_url_overrides" : {
+    "newtab": "snake.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}

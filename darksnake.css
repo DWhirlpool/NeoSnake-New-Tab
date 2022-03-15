@@ -1,0 +1,32 @@
+:root {
+  --cyan: #00FFFF;
+  --white: #ffffff;
+  --black: #000000;
+}
+* {
+  color: var(--fontColor);
+  font-family: helvetica;
+}
+body {
+    background: var(--bg);
+}
+.game-box {
+            text-align:center;   
+ }
+.game-info {
+            text-align:center; 
+            font-family:arial;
+            line-height:24px;
+}
+.light-theme {
+  --bg: var(--cyan);
+  --fontColor: var(--black);
+}
+
+.dark-theme {
+  --bg: var(--black);
+  --fontColor: var(--cyan);
+}
+button {
+    background-color:#000000;
+}
