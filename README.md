@@ -1,4 +1,4 @@
-# NeoSnake-New-Tab![AppVeyor](https://img.shields.io/appveyor/build/DWhirlpool/NeoSnake-New-Tab)
+# NeoSnake-New-Tab ![https://img.shields.io/github/issues/DWhirlpool/NeoSnake-New-Tab]https://github.com/DWhirlpool/NeoSnake-New-Tab/releases/tag/v2.3.4
 ## Table of contents
 * [General info](#general-info)
 * [Usage](#Usage)
