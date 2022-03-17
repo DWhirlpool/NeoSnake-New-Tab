@@ -17,5 +17,10 @@ or
 $ gh repo clone DWhirlpool/NeoSnake-New-Tab
 ```
 ## Documentation
+1.Turn On Developer Mode
+2.Load Unpacked
 <img width="640" alt="screenshot1" src="https://user-images.githubusercontent.com/95860724/158799746-949772d7-676b-4073-9abb-fc70925ea65c.png">
-
+3.Extract
+4.Select the Folder
+<img width="1128" alt="image" src="https://user-images.githubusercontent.com/95860724/158808200-39dfaf36-8ff3-4f11-9416-b47a2998368b.png">
+5.Have Fun!
