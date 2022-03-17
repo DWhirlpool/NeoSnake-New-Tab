@@ -1,4 +1,4 @@
-# NeoSnake-New-Tab [![GitHub all releases](https://img.shields.io/github/downloads/DWhirlpool/NeoSnake-New-Tab/total)]
+# NeoSnake-New-Tab [![GitHub all releases](https://img.shields.io/github/downloads/DWhirlpool/NeoSnake-New-Tab/total)![GitHub branch checks state](https://img.shields.io/github/checks-status/DWhirlpool/NeoSnake-New-Tab/main)]
 ## Table of contents
 * [General info](#general-info)
 * [Usage](#Usage)
