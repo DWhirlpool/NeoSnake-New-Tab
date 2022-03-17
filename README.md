@@ -3,11 +3,11 @@
 * [General info](#general-info)
 * [Usage](#Usage)
 * [Installation](#Installation)
-##General info
+## General info
 A new tab with classical snake game in neon
-##Usage
+## Usage
 On your preffered web browser which supports Javascript, Manage Extensions/ turn on developer mode, download the files, extract them, Load Unpacked and choose the folder.
-##Installation
+## Installation
 Install via
 ```
 $ https://github.com/DWhirlpool/NeoSnake-New-Tab.git
