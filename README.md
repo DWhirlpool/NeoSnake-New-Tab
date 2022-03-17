@@ -1,4 +1,5 @@
-# NeoSnake-New-Tab ![GitHub all releases](https://img.shields.io/github/downloads/DWhirlpool/NeoSnake-New-Tab/total)![GitHub branch checks state](https://img.shields.io/github/checks-status/DWhirlpool/NeoSnake-New-Tab/main)![GitHub release (latest by date)](https://img.shields.io/github/v/release/DWhirlpool/NeoSnake-New-Tab)![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/DWhirlpool/NeoSnake-New-Tab)![GitHub](https://img.shields.io/github/license/DWhirlpool/NeoSnake-New-Tab)
+# NeoSnake-New-Tab 
+![GitHub all releases](https://img.shields.io/github/downloads/DWhirlpool/NeoSnake-New-Tab/total) ![GitHub branch checks state](https://img.shields.io/github/checks-status/DWhirlpool/NeoSnake-New-Tab/main) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/DWhirlpool/NeoSnake-New-Tab) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/DWhirlpool/NeoSnake-New-Tab) ![GitHub](https://img.shields.io/github/license/DWhirlpool/NeoSnake-New-Tab)
 ## Table of contents
 * [General info](#general-info)
 * [Usage](#Usage)
