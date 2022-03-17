@@ -16,6 +16,8 @@ or
 ```
 $ gh repo clone DWhirlpool/NeoSnake-New-Tab
 ```
+or
+<button><a href="/NeoSnake-v2.5.0.zip" download="NeoSnake-v2.5.0">Latest Version Of NeoSnake New Tab Download</a></button>
 ## Documentation
 1.Turn On Developer Mode
 
@@ -23,7 +25,6 @@ $ gh repo clone DWhirlpool/NeoSnake-New-Tab
 
 <img width="640" alt="screenshot1" src="https://user-images.githubusercontent.com/95860724/158799746-949772d7-676b-4073-9abb-fc70925ea65c.png">
 3.Extract
-
 
 4.Select the Folder 
 <img width="1128" alt="image" src="https://user-images.githubusercontent.com/95860724/158808822-be70cf33-2333-481b-b968-589490c1af74.png">
