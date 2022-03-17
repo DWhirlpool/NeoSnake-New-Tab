@@ -4,6 +4,7 @@
 * [General info](#general-info)
 * [Usage](#Usage)
 * [Installation](#Installation)
+* [Documentation](#Documentation)
 ## General info
 A new tab with classical snake game in neon
 ## Usage
@@ -15,3 +16,5 @@ or
 ```
 $ gh repo clone DWhirlpool/NeoSnake-New-Tab
 ```
+## Documentation
+![screenshot](url /img/screenshot1.png)
