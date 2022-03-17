@@ -1,4 +1,4 @@
-# NeoSnake-New-Tab ![https://img.shields.io/github/issues/DWhirlpool/NeoSnake-New-Tab.svg](https://github.com/DWhirlpool/NeoSnake-New-Tab/releases/tag/v2.3.4)
+# NeoSnake-New-Tab ![https://img.shields.io/badge/NeoSnake-v2.3.4-brightgreen.svg](https://github.com/DWhirlpool/NeoSnake-New-Tab/releases/tag/v2.3.4)
 ## Table of contents
 * [General info](#general-info)
 * [Usage](#Usage)
