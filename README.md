@@ -5,5 +5,8 @@ On your preffered web browser which supports Javascript, Manage Extensions/ turn
 Install via
 ```
 $ https://github.com/DWhirlpool/NeoSnake-New-Tab.git
+```
+or
+```
 $ gh repo clone DWhirlpool/NeoSnake-New-Tab
 ```
