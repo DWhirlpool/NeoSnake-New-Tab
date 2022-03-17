@@ -17,4 +17,5 @@ or
 $ gh repo clone DWhirlpool/NeoSnake-New-Tab
 ```
 ## Documentation
-![screenshot](url screenshot1.png)
+<img width="640" alt="screenshot1" src="https://user-images.githubusercontent.com/95860724/158799746-949772d7-676b-4073-9abb-fc70925ea65c.png">
+
