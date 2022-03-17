@@ -1,4 +1,4 @@
-# NeoSnake-New-Tab[(https://github.com/DWhirlpool/NeoSnake-New-Tab/releases/tag/v2.3.4)]
+# NeoSnake-New-Tab[![NeoSnake](https://img.shields.io/badge/Hyper-v1.3.3-brightgreen.svg)](https://github.com/DWhirlpool/NeoSnake-New-Tab/releases/tag/v2.3.4)]
 ## Table of contents
 * [General info](#general-info)
 * [Usage](#Usage)
